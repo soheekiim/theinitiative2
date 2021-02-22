@@ -1,0 +1,127 @@
+html body #MAIN {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  font-family: 'Jost', sans-serif;
+  letter-spacing: 4px;
+  color: #171A1F;
+  background-color: #D9D4C5;
+  width: 1350px;
+}
+
+.navbar {
+  display: inline-block;
+  font-size: 14px;
+  word-spacing: 4px;
+}
+
+#websitename {
+  margin-left: 16px;
+  margin-right: 596px;
+
+  font-size: 32px;
+  letter-spacing: 8px;
+
+  position: relative;
+  top: 4px;
+}
+
+a {
+  color: #171A1F;
+}
+
+.tab:hover {
+  color: #BFB8B0;
+}
+
+.tab:link {
+  text-decoration: none;
+}
+
+#active {
+  padding-bottom: 4px;
+  border-bottom: 1px solid #171A1F;
+}
+
+#content {
+  height: 2020px;
+  margin-top: 60px;
+  margin-left: 180px;
+  margin-right: 180px;
+  letter-spacing: 3px;
+}
+
+h1 {
+  font-size: 40px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+#thegood {
+  text-align: left;
+}
+
+#thebad {
+  text-align: right;
+}
+
+.images {
+  margin-top: 40px;
+  margin-bottom: 60px;
+  text-align: center;
+}
+
+.icons {
+  display: inline-block;
+  object-fit: contain;
+  width: 200px;
+  height: 200px;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+
+#mfg {
+  display: inline-block;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+
+#smfg {
+  width: 160px;
+}
+
+#resources {
+  text-align: center;
+}
+
+#insta {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.headings {
+  font-size: 32px;
+  margin-top: 100px;
+  margin-bottom: 16px;
+}
+
+.desc {
+  margin-bottom: 44px;
+}
+
+.highlights {
+  font-style: oblique;
+  margin-bottom: 40px;
+}
+
+#footer {
+  text-align: center;
+  font-size: 14px;
+
+  border-top: 1px solid #171A1F;
+  padding-top: 10px;
+  padding-bottom: 2px;
+}
